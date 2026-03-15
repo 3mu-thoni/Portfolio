@@ -1,4 +1,4 @@
- Developer Portfolio Website
+ Portfolio Website
 
 This is my personal developer portfolio showcasing my skills, projects, and experience in software development.  
 It serves as a central place where recruiters and collaborators can view my work and contact me.
@@ -21,8 +21,7 @@ My interests include frontend development, backend systems, and full-stack appli
 - HTML5
 - CSS3
 - JavaScript
-- React (if used)
-- Bootstrap / Tailwind (if used)
+- Bootstrap / Tailwind 
 - Git & GitHub
 
    How to Run Locally
